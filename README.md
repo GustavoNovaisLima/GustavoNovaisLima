@@ -13,4 +13,4 @@
 <img alt="HTML5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 </div>
-### "Apaixonado por tecnologia, busca constante por aprendizado e evolução, com objetivo de  mudar a visa das pessoaas através da programação" 👨‍🎓💻
+Apaixonado por tecnologia, busca constante por aprendizado e evolução, com objetivo de  mudar a visa das pessoaas através da programação" 👨‍🎓💻
